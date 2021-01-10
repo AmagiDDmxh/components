@@ -5,7 +5,6 @@ import { css } from '@emotion/css'
 const width = '1.67rem'
 const height = '.835rem'
 const background = '#eaeaea'
-const success = '#0070f3'
 
 const toggleCls = css`
   transition-delay: 0.12s;
